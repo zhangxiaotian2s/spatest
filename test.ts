@@ -1,0 +1,3 @@
+class SimpleSpa {
+  constructor() {}
+}
